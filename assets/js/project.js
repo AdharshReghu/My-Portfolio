@@ -4,7 +4,7 @@ AOS.init();
 const projectcards = document.querySelector(".projectcards");
 
 // Array of object for projects
-/*
+
 const projects = [
   {
     title: "Quiz App",
@@ -14,6 +14,7 @@ const projects = [
     Previewlink: "",
     Githublink: "",
   },
+  
   {
     title: "Chess Engine",
     cardImage: "assets/images/project-page/chess.jpg",
@@ -110,7 +111,7 @@ const projects = [
     Previewlink: "",
     Githublink: "",
   },
-];*/
+];
 
 // function for rendering project cards data
 const showCards = () => {
