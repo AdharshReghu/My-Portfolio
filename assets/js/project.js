@@ -11,7 +11,7 @@ const projects = [
     cardImage: "assets/images/project-page/portfolio.jpg",
     description: "A Portfolio website created to showcase my projects and skills.",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
-    Previewlink: "https://adharshreghu-portfolio.netlify.app/",
+    Previewlink: "https://adharshreghu-portfolio.netlify.app",
     Githublink: "https://github.com/AdharshReghu/My-Portfolio",
   },
 ];
