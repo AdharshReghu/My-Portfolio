@@ -212,18 +212,9 @@ div.techstack_icon>i.fa-js-square {
     color: #F0DB4F;
 }
 
-div.techstack_icon>i.fa-python {
-    display: inline-block;
-    background: linear-gradient(-120deg, #ffde57, #4584b6, #646464);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    -moz-background-clip: text;
-    -moz-text-fill-color: transparent;
-}
 
-div.techstack_icon>i.fa-react {
-    color: #61DBFB;
-}
+
+
 
 div.techstack_icon>i.fa-git-alt {
     color: #F1502F;
