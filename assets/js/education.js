@@ -2,7 +2,7 @@ AOS.init();
 
 // MOOCs Cards
 
-const moocs = document.querySelector(".moocs");
+/*const moocs = document.querySelector(".moocs");
 const moocscards = [
   {
     title: "Data Science",
@@ -131,7 +131,7 @@ const showCards = () => {
   );
   moocs.innerHTML = output;
 };
-document.addEventListener("DOMContentLoaded", showCards);
+document.addEventListener("DOMContentLoaded", showCards);*/
 
 /* Badges*/
 

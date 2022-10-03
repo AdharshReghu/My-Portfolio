@@ -1,7 +1,7 @@
 AOS.init();
 
 //  Work experience cards
-
+/*
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
@@ -222,4 +222,4 @@ const showCards3 = () => {
   );
   hackathonsection.innerHTML = output;
 };
-document.addEventListener("DOMContentLoaded", showCards3);
+document.addEventListener("DOMContentLoaded", showCards3);*/
