@@ -9,11 +9,20 @@ const projects = [
  {
     title: "MY Portfolio Website",
     cardImage: "assets/images/project-page/portfolio.jpg",
-    description: "A Portfolio website created to showcase my projects and skills.",
+    description: "A Portfolio website created  to showcase my projects and skills.",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Previewlink: "https://adharshreghu-portfolio.netlify.app",
     Githublink: "https://github.com/AdharshReghu/My-Portfolio",
   },
+  {
+    title: "AR Counter",
+    cardImage: "assets/images/project-page/Counter.png",
+    description: "My First Flutter APP Which I tried to creat when I Started learning Flutter.",
+    tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
+    Previewlink: "https://drive.google.com/file/d/14zxK4X0nWKf0_-r63m32dA3BNsvRrd80/view?usp=sharing",
+    Githublink: "https://github.com/AdharshReghu/CounterAPP",
+  },
+
 ];
 
 // function for rendering project cards data
