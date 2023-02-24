@@ -22,6 +22,14 @@ const projects = [
     Previewlink: "https://drive.google.com/file/d/14zxK4X0nWKf0_-r63m32dA3BNsvRrd80/view?usp=sharing",
     Githublink: "https://github.com/AdharshReghu/CounterAPP",
   },
+  {
+    title: "DICEE",
+    cardImage: "assets/images/project-page/Counter.png",
+    description: "Shows Two dice which will generate random numbers (from 1 to 6) upon tapping/clicking and shows whether the result is odd or even",
+    tagimg: "https://img.freepik.com/premium-vector/vector-illustration-hand-drawn-doodle-two-white-dice-with-contour-gambling-symbol_501907-729.jpg?w=2000",
+    Previewlink: "https://drive.google.com/file/d/14zxK4X0nWKf0_-r63m32dA3BNsvRrd80/view?usp=sharing",
+    Githublink: "https://github.com/AdharshReghu/DICEE",
+  },
 
 ];
 
