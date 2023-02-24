@@ -30,6 +30,15 @@ const projects = [
     Previewlink: "https://drive.google.com/file/d/1Z_sL_tJfWrHUNmisiCY9XTiuRQKEXwKg/view?usp=sharing",
     Githublink: "https://github.com/AdharshReghu/DICEE",
   },
+  {
+    title: "Ask Me Anything",
+    cardImage: "assets/images/project-page/Askme.jpg",
+    description: "Shows Two dice which will generate random numbers (from 1 to 6) upon tapping/clicking and shows whether the result is odd or even",
+    tagimg: "https://img.freepik.com/premium-vector/vector-illustration-hand-drawn-doodle-two-white-dice-with-contour-gambling-symbol_501907-729.jpg?w=2000",
+    Previewlink: "https://github.com/AdharshReghu/AskMeAnything",
+    Githublink: "https://github.com/AdharshReghu/AskMeAnything",
+  },
+
 
 ];
 
