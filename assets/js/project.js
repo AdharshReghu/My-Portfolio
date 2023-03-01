@@ -40,7 +40,7 @@ const projects = [
   },
  {
     title: "QuizzApp",
-    cardImage: "assets/images/project-page/QuizIcon.jpg",
+    cardImage: "assets/images/project-page/QuizIcon.png",
     description: "A simple true or false based quiz app with a predefined set of questions",
     tagimg: "https://img.freepik.com/premium-vector/vector-illustration-hand-drawn-doodle-two-white-dice-with-contour-gambling-symbol_501907-729.jpg?w=2000",
     Previewlink: "https://github.com/AdharshReghu/QuizzApp",
