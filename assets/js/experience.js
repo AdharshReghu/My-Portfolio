@@ -6,7 +6,7 @@ const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
     title: "Software Development Intern",
-    cardImage: "assets/images/experience-page/flipkart.jpg",
+    cardImage: "assets/images/experience-page/sparks.png",
     place: " THE SPARKS FOUNDATION",
     time: "(September, 2022 - October 2022)",
     desp: "<li>Designed and Developed a sample basic donation Website with a single button.</li> <li>Integrated Payment Interface in the wes=bsite using API.",
