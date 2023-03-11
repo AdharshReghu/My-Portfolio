@@ -58,7 +58,7 @@ const showCards2 = () => {
 document.addEventListener("DOMContentLoaded", showCards2);
 
 // Volunteership Cards
-
+/*
 const volunteership = document.querySelector(".volunteership");
 const volunteershipcards = [
   {
@@ -222,4 +222,4 @@ const showCards3 = () => {
   );
   hackathonsection.innerHTML = output;
 };
-document.addEventListener("DOMContentLoaded", showCards3);
+document.addEventListener("DOMContentLoaded", showCards3);*/
