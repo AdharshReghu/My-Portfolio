@@ -46,6 +46,14 @@ const projects = [
     Previewlink: "https://github.com/AdharshReghu/QuizzApp",
     Githublink: "https://github.com/AdharshReghu/QuizzApp",
   },
+ {
+    title: "BMI CALCULATOR",
+    cardImage: "assets/images/project-page/bmi.png",
+    description: "A very feature rich UI based Body Mass Index Calculator",
+    tagimg: "https://img.freepik.com/premium-vector/vector-illustration-hand-drawn-doodle-two-white-dice-with-contour-gambling-symbol_501907-729.jpg?w=2000",
+    Previewlink: "https://github.com/AdharshReghu/BMI-CALCULATOR",
+    Githublink: "https://github.com/AdharshReghu/BMI-CALCULATOR",
+  },
 
 
 ];
